@@ -1,20 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
 
-  <p>1. The terminal is a system that works with commands. This system can help us as users to get 
-      access and develop or remake our operating system. </p>
 
-<p>2. The major difference between Git and Github is that Github is used by Git users to link and download resources, 
-    meanwhile in the other hand Git is just the open-source that we can use as a source to code.</p>
+1. The terminal is a system that works with commands. This system can help us as users to get 
+access and develop or remake our operating system. </p>
 
-<p>3. We use Github because we can share our code when doing projects and save copies as well.</p>
+2.The major difference between Git and Github is that Github is used by Git users to link and download resources,   meanwhile in the other hand Git is just the open-source that we can use as a source to code.</p>
 
-</body>
-</html>cd
+3. We use Github because we can share our code when doing projects and save copies as well.</p>
